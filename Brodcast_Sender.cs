@@ -7,7 +7,7 @@ using System.Threading;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace encryption
+namespace ProxyServer
 {
     class Brodcast_Sender
     {
@@ -52,7 +52,7 @@ namespace encryption
                     }
                     if (exception_thrown == false)
                     {
-                        MessageBox.Show("Message broadcast successfull","Information",MessageBoxButtons.OK,MessageBoxIcon.Information);
+                        Trace.WriteLine("Message broadcast successfull");
                         
                     }
                     

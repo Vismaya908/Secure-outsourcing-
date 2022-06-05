@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Diagnostics;
 
-namespace encryption
+namespace ProxyServer
 {
     public class TSReceiver
     {
@@ -91,12 +91,12 @@ namespace encryption
             }
         }
 
-        private void sendMessage(string message, string ip)
+        private void sendMessage(string message,string ip)
         {
             // Copy to a temporary variable to be thread-safe.
             EventHandler<TcpMessageReceivedEventArgs> messageReceived = MessageReceived;
             if (messageReceived != null)
-                messageReceived(this, new TcpMessageReceivedEventArgs(message, ip));
+                messageReceived(this, new TcpMessageReceivedEventArgs(message,ip));
         }
 
 
@@ -144,7 +144,7 @@ namespace encryption
 
                     // Send back a response.
                     ns.Write(bytes, 0, bytes.Length);
-                    sendMessage(clientData.ToString(), newClient.Client.RemoteEndPoint.ToString());
+                    sendMessage(clientData.ToString(),newClient.Client.RemoteEndPoint.ToString());
                 }
             }
             finally
@@ -162,7 +162,7 @@ namespace encryption
         private string m_message;
         private string SIP = null;
 
-        public TcpMessageReceivedEventArgs(string message, string IP)
+        public TcpMessageReceivedEventArgs(string message,string IP)
         {
             m_message = message;
             SIP = IP;

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Net;
 
-namespace encryption
+namespace ProxyServer
 {
     class Network
     {
@@ -18,7 +18,7 @@ namespace encryption
                     return ip.ToString();
             }
 
-            return "192.168.0.12";
+            return "127.0.0.1";
         }
     }
 }

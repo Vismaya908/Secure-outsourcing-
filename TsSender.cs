@@ -6,7 +6,7 @@ using System.Threading;
 using System.Diagnostics;
 using System.Net;
 
-namespace encryption
+namespace ProxyServer
 {
     class TsSender
     {
@@ -67,46 +67,6 @@ namespace encryption
             finally
             {
                 Dispose();
-            }
-        }
-
-        public void SendMessage(string msg,out string servermessage)
-        {
-            try
-            {
-                _client = new TcpClient();
-                _client.Connect(_endPoint);
-
-                // Get the bytes to send for the message
-                byte[] bytes = Encoding.ASCII.GetBytes(msg);
-                // Get the stream to talk to the server on
-                using (NetworkStream ns = _client.GetStream())
-                {
-                    // Send message
-                    Trace.WriteLine("Sending message to server: " + msg);
-                    ns.Write(bytes, 0, bytes.Length);
-                    // Get the response
-                    // Buffer to store the response bytes
-                    bytes = new byte[1024];
-
-                    // Display the response
-                    int bytesRead = ns.Read(bytes, 0, bytes.Length);
-                    string serverResponse = Encoding.ASCII.GetString(bytes, 0, bytesRead);
-                    Trace.WriteLine("Server said: " + serverResponse);
-                    servermessage = serverResponse;
-                }
-            }
-            catch (SocketException se)
-            {
-                Trace.WriteLine("There was an error talking to the server: " +
-                    se.ToString());
-                servermessage = "nope";
-            }
-            catch (Exception ert) { servermessage = "nope"; }
-            finally
-            {
-                Dispose();
-
             }
         }
 

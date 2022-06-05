@@ -5,7 +5,7 @@ using System.IO;
 
 
 
-namespace encryption
+namespace ProxyServer
 {
     public class Crypto
     {
