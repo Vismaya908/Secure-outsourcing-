@@ -1,0 +1,588 @@
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Encrypt.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+C:\magzzzz\project\S6 project\encryption\encryption\bin\Debug\encryption.exe
+C:\magzzzz\project\S6 project\encryption\encryption\bin\Debug\encryption.pdb
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.exe
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.pdb
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.LOGIN.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.reg.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.MDIParent1.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form2.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form3.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form4.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form5.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form6.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form7.resources
+C:\magzzzz\project\S6 project\encryption\encryption\obj\Debug\encryption.Form8.resources
+C:\magzzzz\project\S6 project\encryption\encryption\bin\Debug\RSAEncryptionLib.dll
+C:\magzzzz\project\S6 project\encryption\encryption\bin\Debug\RSAEncryptionLib.pdb
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\Mohandas Collage\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\Mohandas Collage\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\Mohandas Collage\UniqueClient\encryption\bin\Debug\RSAEncryptionLib.pdb
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Encrypt.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Form8.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Mohandas Collage\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Mohandas Collage\UniqueClient\encryption\bin\Debug\DBRemoting.dll
+E:\Mohandas Collage\UniqueClient\encryption\bin\Debug\DBRemoting.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\DBRemoting.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\RSAEncryptionLib.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Encrypt.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form8.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\GenerateResource.write.499.tlog
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.exe
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.pdb
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\encryption.exe
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\bin\Debug\encryption.pdb
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Encrypt.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form8.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+C:\magzzzz\project\S6 project\Unidirectional Proxy Encryption\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\obj\Debug\encryption.Form_file.resources
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\bin\Debug\crypter.dll
+E:\Mohandas Collage\Unidirectional Proxy Encryption\MAGLIN\UniqueClient\encryption\bin\Debug\crypter.pdb
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.exe
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.pdb
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.pdb
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\crypter.pdb
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\SAPHIRA\Desktop\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH-2012\ACADEMIC PROJECT MANAGEMENT\PROJECT STUDY\proxy server\PROXY FINAL 8-2012\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\PROXY FINAL 8-2012\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+G:\LIVE\jithinz editing\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\YUVA.YUVATECH-04\Desktop\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2013\PROJECT STUDY\Decentralized Attribute key policy\enhacement\PROXY FINAL\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResolveAssemblyReference.cache
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.read.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\GenerateResource.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\ResGen.write.1.tlog
+E:\YUVATECH 2015\PROJECT STUDY\Public Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.NewFile.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form_File.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form6.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form2.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form3.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form4.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form5.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form7.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.NewFile.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2019\PROJECT STUDY\Perumon\second\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\FileTransferClient.Check_Key.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.MDIParent1.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2019\PROJECT\PERUMON\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2020\PROJECT\Perumon\Secure data in the Clouds\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+E:\YUVATECH 2020\PROJECT\Perumon\Modified Secure data in the Cloud\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2020\PROJECT\Karunagapally\SecureFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyDownload.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyDownload.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+F:\YUVATECH 2021\PROJECT\Marphram\OutSourceFileStorageandRetreival\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyDownload.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2021\PROJECT\MSc Distance\Authenticated GroupKey\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyDownload.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMManageHome1.resources
+E:\YUVATECH 2022\PROJECT\BTech_Karunagapally\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home1.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe.config
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.exe
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.pdb
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.exe
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\encryption.pdb
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\bin\Debug\crypter.pdb
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.AddEmpDetails.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteEmployee.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.DeleteFile.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileBlockPermission.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDirectoryView.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownload1.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileDownloadFromPM.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.FileSharePermission.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Form1.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Home1.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyDownload.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.LOGIN.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PManagerHome.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMAssignWork.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMDownloadFile.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMEncryptFile.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMManageHome1.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.PMUploadFile.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.UpdateProfile.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.uploadImage.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.EncryptForm.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.KeyMerging.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.Properties.Resources.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.reg.resources
+C:\Users\user\Desktop\SecureStorage\PROXY FINAL\UniqueClient\encryption\obj\Debug\encryption.csproj.GenerateResource.Cache
