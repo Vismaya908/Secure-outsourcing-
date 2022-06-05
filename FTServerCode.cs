@@ -5,10 +5,9 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 using System.Windows.Forms;
-
 using Crypter;
 
-namespace Channel
+namespace ProxyServer
 {
     class FTServerCode
     {
@@ -173,81 +172,7 @@ namespace Channel
                 curMsg = ex.Message;
             }
         }
-      //  IPEndPoint ipEnd;
-      //  Socket sock;
-        public static string ss = "";
-        public FTServerCode()
-        {
-            try
-            {
-                ipEnd = new IPEndPoint(IPAddress.Any, 5656);
-                sock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
-                sock.Bind(ipEnd);
-            }
-            catch (SocketException ert)
-            {
-                MessageBox.Show("Client and Server cannot be in same system");
-            }
-        }
-        public static string receivedPath;
-        //public static string curMsg = "Stopped";
-        public void StartServer()
-        {
-            try
-            {
-                curMsg = "Starting...";
-                sock.Blocking = true;
-                sock.Listen(-1);
 
-                curMsg = "Running and waiting to receive file.";
-                Socket clientSock = sock.Accept();
-
-                byte[] clientData = new byte[1024];
-
-                int receivedBytesLen = clientSock.Receive(clientData);
-                curMsg = "Receiving data...";
-                int len = 0;
-                int fileNameLen = Convert.ToInt32(ASCIIEncoding.ASCII.GetString(clientData, len, 4));
-                len = len + 4;
-                string fileName = Encoding.ASCII.GetString(clientData, len, fileNameLen);
-                len = 4 + fileNameLen;
-                int s_len = Convert.ToInt32(ASCIIEncoding.ASCII.GetString(clientData, len, 4));
-                len = len + 4;
-
-                int size = Convert.ToInt32(ASCIIEncoding.ASCII.GetString(clientData, len, s_len));
-                ss += fileName + "::" + size;
-
-
-                FileStream fstream = new FileStream(receivedPath + "/" + fileName, FileMode.Append, FileAccess.Write);
-                NetworkStream ns = new NetworkStream(clientSock);
-                //BinaryWriter bWrite = new BinaryWriter(File.Open(receivedPath + "/" + fileName, FileMode.Append));
-                for (int i = 0; i < size; )
-                {
-                    byte[] fdata = new byte[1024];
-
-                    int ll = ns.Read(fdata, 0, fdata.Length);
-                    fstream.Flush();
-                    fstream.Write(fdata, 0, ll);
-                    i = i + ll;
-                    curMsg = ll.ToString();
-                    //bWrite.Write(fdata, 0, fdata.Length);
-
-                }
-                fstream.Close();
-                //bWrite.Close();
-                //bWrite.Write(clientData, 4 + fileNameLen, receivedBytesLen - 4 - fileNameLen);
-
-                curMsg = "Saving file...";
-
-                //bWrite.Close();
-                clientSock.Close();
-                MessageBox.Show("File Received and saved....");
-            }
-            catch (Exception ex)
-            {
-                curMsg = ex.Message;
-            }
-        }
         public void redirectRecive(string ip,int port)
         {
             try
@@ -320,14 +245,14 @@ namespace Channel
                
                 clientSock.Close();
                 clientSocket.Close();
-                if (File_ReceveComplete != null)
+                if (File_RedirectComplete != null)
                 {
-                    this.File_ReceveComplete(this, new EventArgs());
+                    this.File_RedirectComplete(this, new EventArgs());
                 }
             }
             catch (Exception ex)
             {
-                
+                MessageBox.Show(ex.Message); 
             }
         }
 
