@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="encryption">
+</Property><Property Name="Solution File" Value="E:\Mohandas Collage\UniqueClient\encryption.sln">
+</Property><Property Name="Date" Value="Saturday, June 30, 2012">
+</Property><Property Name="Time" Value="12:22 PM">
+</Property></Properties><Event ErrorLevel="0" Project="encryption" Source="encryption\encryption.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="encryption" Source="encryption\encryption.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="encryption.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="encryption.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="encryption" Source="encryption\encryption.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
